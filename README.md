@@ -1,4 +1,4 @@
-# E-Learning-Tool-
+# E-Learning-Tool
 Designed and implemented a tool that help users to drawing and teach them. 
 
 Tool is build for Math teachers who want to teach maths in a simple and professional manner.
